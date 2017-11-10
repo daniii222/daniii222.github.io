@@ -1,0 +1,13 @@
+/* TEAM */
+	Owner: Daniela Rondahl
+	Contact: danirondahl@gmail.com
+	Github: @daniii222
+	Location: Stockholm, Sweden
+
+/* THANKS */
+	Education: https://coursepress.lnu.se/program/utveckling-och-drift-av-mjukvarusystem/
+
+/* SITE */
+	Last update: 2017/11/9 
+	Standards: HTML5, CSS3
+	Components: jQuery, Disqus

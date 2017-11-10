@@ -6,6 +6,7 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+  text-align: center;
 }
 
 .site-title {
@@ -14,7 +15,6 @@
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left;
 
   &,
   &:visited {
@@ -23,7 +23,7 @@
 }
 
 .site-nav {
-  float: right;
+  text-align: center;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
