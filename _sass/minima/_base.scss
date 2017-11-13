@@ -217,24 +217,29 @@ pre {
   }
 }
 
-.intro {
-  background: #fef9ff;
-  padding: 20px;
+.pink-box {
+  background: #f5eaf5;
+  padding: 20px 20px 15px 20px;
   margin-top: 30px;
   margin-bottom: 30px;
 }
-.webdev {
-  background: #f8f8f8;
-  padding: 20px;
+.grey-box {
+  background: #e7e7e7;
+  padding: 20px 20px 15px 20px;
   margin-top: 30px;
   margin-bottom: 30px;
 }
 
-.softdev {
-  background: #f8f8f8;
-  padding: 20px;
+.blue-box {
+  background: #dee6ff;
+  padding: 20px 20px 15px 20px;
   margin-top: 30px;
   margin-bottom: 30px;
+  
+  li {
+    background: #eaf0ff;
+    padding: 15px 20px 10px 20px;
+  }
 }
 
 .link-list {

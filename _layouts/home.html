@@ -4,10 +4,21 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="post-title">Home</h1>
   
   {{ content }}
 
+  <div class="pink-box">
+    <p>This is a website made for Exam Assignment 1 in course <a href="https://coursepress.lnu.se/kurs/klientbaserad-webbprogrammering/">1DV022 Client-based webprogramming</a> at Linnaeus university. The website is created with <a href="https://jekyllrb.com/">Jekyll</a> and published with <a href="https://github.com/">GitHub</a>.</p>
+  </div>
+
+  <div class="grey-box">
+    <p>Visit the <a href="/about/">about-page</a> if you want to lear more about me and my previous experience with web and software development. If you want to see my development projects please visit my <a href="https://github.com/daniii222">GitHub page</a></p>
+  </div>
+  <img src="../pics/computerpic.jpg">
+
+  <div class="blue-box">
+      <h1 class="page-heading">Blog Posts</h1>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -20,6 +31,7 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+</div>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
