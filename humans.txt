@@ -3,12 +3,12 @@
 	Contact: danirondahl@gmail.com
 	Github: @daniii222
 	Location: Stockholm, Sweden
-
-/* THANKS */
-	Education: https://coursepress.lnu.se/program/utveckling-och-drift-av-mjukvarusystem/
+						
+/* THANKS */						
+	Education: https://coursepress.lnu.se/program/utveckling-och-drift-av-mjukvarusystem/ 
 
 /* SITE */
-	Last update: 2017/11/9 
+	Last update: 2017/11/15 
 	Standards: HTML5, CSS3
-	Components: jQuery, Disqus
-	Software: 
+	Components: jQuery, GitHub, Disqus
+	Software: Jekyll, Sass

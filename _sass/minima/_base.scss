@@ -41,7 +41,6 @@ ul, ol, dl, figure,
 }
 
 
-
 /**
  * Images
  */
@@ -142,7 +141,7 @@ code {
   @include relative-font-size(0.9375);
   border: 1px solid $grey-color-light;
   border-radius: 3px;
-  background-color: #eef;
+  background-color: #ede0f3;
 }
 
 code {
@@ -251,4 +250,16 @@ pre {
     color: #4e4e4e;
     padding: 8px 0 8px 0;
   }
+}
+
+.comment-box {
+  background: #f7f7f7;
+  padding: 20px;
+}
+
+h5 {
+  color: #be257f;
+  font-size: 18px;
+  padding: 0;
+  font-weight: normal;
 }
