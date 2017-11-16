@@ -141,7 +141,8 @@ code {
   @include relative-font-size(0.9375);
   border: 1px solid $grey-color-light;
   border-radius: 3px;
-  background-color: #ede0f3;
+  background-color: #eef;
+  font-size: 14px;
 }
 
 code {
@@ -244,22 +245,29 @@ pre {
 .link-list {
   list-style: none;
   margin: 0;
+  display: inline;
 
   li {
     font-size: 40px;
     color: #4e4e4e;
-    padding: 8px 0 8px 0;
+    padding: 10px 40px 10px 0px;
+    display: inline;
   }
+}
+
+.back-to-blog {
+  padding: 10px;
+  font-size: 20px;
+  margin-bottom: 20px;
+  display: block;
+}
+
+.comment-title {
+  border-top: 1px solid #929292;
+  padding-top: 20px;
 }
 
 .comment-box {
   background: #f7f7f7;
   padding: 20px;
-}
-
-h5 {
-  color: #be257f;
-  font-size: 18px;
-  padding: 0;
-  font-weight: normal;
 }

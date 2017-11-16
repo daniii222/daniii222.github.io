@@ -1,11 +1,8 @@
 /* TEAM */
 	Owner: Daniela Rondahl
-	Contact: danirondahl@gmail.com
+	Contact: dr222ew@student.lnu.se
 	Github: @daniii222
-	Location: Stockholm, Sweden
-						
-/* THANKS */						
-	Education: https://coursepress.lnu.se/program/utveckling-och-drift-av-mjukvarusystem/ 
+	Location: Stockholm, Sweden 
 
 /* SITE */
 	Last update: 2017/11/15 
