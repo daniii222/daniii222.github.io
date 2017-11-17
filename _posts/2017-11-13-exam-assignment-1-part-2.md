@@ -13,16 +13,16 @@ Webbplatsägare använder oftast en fil som heter robots.txt (The Robots Exclusi
 
 Nedan är robots.txt för den här webbplatsen.
 
-{% highlight ruby %}
+```
 User-agent: *
 Disallow: /
-{% endhighlight %}
+```
 
 ##### What is humans.txt and how have you configure it for your site?
 
 Humans.txt är ett initiativ för att användaren ska få mer information om webbplatsen samt information om människorna bakom webbplatsen. Filen humans.txt läggs in på samma sätt som robots.txt. Men du skriver in information för människor i stället för robotar. Information som kan vara bra att inkludera i textfilen är kontaktinformation, när webbplatsen senast uppdaterades, vilka komponenter och mjukvaror som använts.
 
-{% highlight ruby %}
+```
 /* TEAM */
 Owner: Daniela Rondahl
 Contact: dr222ew@student.lnu.se
@@ -30,8 +30,8 @@ Github: @daniii222
 Location: Stockholm, Sweden
 
 /* SITE */
-Last update: 2017/11/15 
+Last update: 2017/11/17
 Standards: HTML5, CSS3
 Components: jQuery, GitHub, Disqus
 Software: Jekyll, Sass
-{% endhighlight %}
+```

@@ -5,7 +5,7 @@
 	Location: Stockholm, Sweden 
 
 /* SITE */
-	Last update: 2017/11/15 
+	Last update: 2017/11/17 
 	Standards: HTML5, CSS3
 	Components: jQuery, GitHub, Disqus
 	Software: Jekyll, Sass

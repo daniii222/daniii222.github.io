@@ -19,10 +19,10 @@ Open Graph är ett protokoll som gör det möjligt för webbplatsägare att få 
 
 Jag valde att endast använda mig av de fyra nödvändigaste meta-taggarna.
 
-{% highlight ruby %}
+```
 <meta property="og:title" content="Exam assignment 1 - 1DV022"/>
-<meta property="og:url" content=""/>
+<meta property="og:url" content="http://daniii222.github.io"/>
 <meta property="og:type" content="website"/>
 <meta property="og:image" content="https://cdn.pixabay.com/photo/2017/02/05/00/19/web-design-2038872_1280.jpg"/>
 <meta property="og:description" content="A site made for Exam Assignment 1 in course 1DV022 Client-based webprogramming at Linnaeus University."/>
-{% endhighlight %}
+```

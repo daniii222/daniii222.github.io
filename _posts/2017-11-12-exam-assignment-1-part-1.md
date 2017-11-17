@@ -12,9 +12,9 @@ _This blog post is Part 1 of Exam Assignment 1 in course [1DV022](https://course
 ##### - Which techniques did you use?
 ##### - Pros and cons?
 
-Att använda Sass som är en CSS-preprocessor underlättar arbetet för utvecklaren oerhört mycket.  Sass tillhandahåller en större funktionalitet än CSS och ger utvecklaren möjlighet att använda variabler, nästade selektorer, matematiska uttryck och mycket mer. Med Sass behöver utvecklaren inte upprepa kod på samma sätt som behövs i CSS och kreativiteten kan i stället ligga i fokus. I större projekt med ett flertal värden som ska tas hand om kan användningen av preprocessor göra arbetet betydligt lättare.
+Att använda Sass som är en CSS-preprocessor underlättar arbetet för utvecklaren väldigt mycket.  Sass tillhandahåller en större funktionalitet än CSS och ger utvecklaren möjlighet att använda variabler, nästade selektorer, matematiska uttryck och mycket mer. Med Sass behöver utvecklaren inte upprepa kod på samma sätt som behövs i CSS och kreativiteten kan i stället ligga i fokus. I större projekt med ett flertal värden som ska tas hand om kan användningen av preprocessor göra arbetet betydligt lättare.
 
-De tekniker som jag provat att använda med Sass är variabler för färger, textstilar, textstorlekar och mycket mer. Jag har även använt mig av ett flertal nästlade taggar. En stor fördel med Sass är att kunna återanvända kod vilket effektiviserar arbetet. Med Sass sparas även tid då DRY-principen kan efterföljas och man slipper upprepa kod. Jag ser endast fördelar med att använda en CSS-preprocessor och sedan konvertera till vanlig CSS-kod.
+De tekniker som jag provat att använda med Sass är variabler för färger, textstilar, textstorlekar och mycket mer. Jag har även använt mig av ett flertal nästlade taggar. En stor fördel med Sass är att kunna återanvända kod vilket effektiviserar arbetet. Med Sass sparas även tid då DRY-principen kan efterföljas. Jag ser endast fördelar med att använda en CSS-preprocessor och sedan konvertera till vanlig CSS-kod.
 
 ##### What do you think of static site generators?
 ##### - What type of projects are they suitable for?

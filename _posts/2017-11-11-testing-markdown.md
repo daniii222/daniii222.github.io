@@ -15,16 +15,17 @@ _In this blog post I will try to use different Markdown Syntaxes._
 ##### Testing Markdown Header 5
 ```
 
-*Italic text with asterisks*
-_Italic text with underscores_
+*Italic text with asterisks*  
+_Italic text with underscores_  
 
 ```
-*Italic text with asterisks*
+*Italic text with asterisks* 
 _Italic text with underscores_
 ```
 
-**Bold text with asterisks**
-__Bold text with underscores__
+**Bold text with asterisks**  
+__Bold text with underscores__ 
+
 
 ```
 **Bold text with asterisks**
@@ -44,5 +45,5 @@ __Bold text with underscores__
 A link to [Linnaeus University](.https://lnu.se/)
 
 ```
-A link to the website of [Linnaeus University](https://lnu.se/)
+A link to [Linnaeus University](https://lnu.se/)
 ```
